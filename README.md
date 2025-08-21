@@ -1,6 +1,9 @@
 # tryhackme-presecurity-notes
 Documentation of my learning path on TryHackMe Pre Security and beyond.
 
+<img width="926" height="281" alt="Capture d'écran 2025-08-21 221116" src="https://github.com/user-attachments/assets/2afcb3e3-e780-4ced-993c-73b96afcb9ad" />
+
+
 # 🛡️ TryHackMe Pre-Security Path Notes
 
 This repository contains my notes, labs, and reflections from completing the **Pre-Security Learning Path** on [TryHackMe](https://tryhackme.com).  
