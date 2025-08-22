@@ -29,3 +29,18 @@ It includes three main tasks: understanding offensive security, hacking a first 
 
 **Key takeaway:** Enumeration is the first and most critical step in penetration testing.
 
+## ✅ Task 3: Careers in Cyber Security
+- Different paths in cyber:
+  - **Red Team (Offensive Security)** → ethical hacking, pentesting, red teaming  
+  - **Blue Team (Defensive Security)** → SOC analysts, threat hunters, defenders  
+  - **Purple Team** → hybrid approach combining red + blue  
+- Other specializations: forensics, IoT security, DevSecOps, cloud security.  
+
+**Key takeaway:** Cybersecurity is broad; choose a path that matches your interests.
+
+---
+
+## 📝 Reflections
+This room gave me my first hands-on feel for attacking a machine.  
+I learned how important **enumeration** is, and I started to see how offensive and defensive security complement each other.  
+I’m most interested in applying these skills to **IoT and Cloud Security**.
