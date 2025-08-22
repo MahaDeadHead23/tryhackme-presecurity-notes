@@ -1,7 +1,8 @@
 # tryhackme-presecurity
 Documentation of my learning path on TryHackMe Pre Security and beyond.
 
-<img width="926" height="281" alt="Capture d'écran 2025-08-21 221116" src="https://github.com/user-attachments/assets/2afcb3e3-e780-4ced-993c-73b96afcb9ad" />
+<img width="501" height="302" alt="image" src="https://github.com/user-attachments/assets/7d34195a-d900-49ca-ba14-574b412c2975" />
+
 
 
 # 🛡️ TryHackMe Pre-Security Path Notes
