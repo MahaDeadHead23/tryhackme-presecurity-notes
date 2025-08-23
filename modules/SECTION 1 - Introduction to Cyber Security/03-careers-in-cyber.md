@@ -2,6 +2,7 @@
 
 
 
+<img width="851" height="422" alt="image" src="https://github.com/user-attachments/assets/2643cae7-77d0-44ed-ab49-98da48784042" />
 
 
 # 💼 Careers in Cyber
@@ -17,8 +18,7 @@ Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team,
 - **👨‍💻 Security Analyst**  
   - Evaluates networks, writes reports, develops security plans.
 
-  <img width="851" height="422" alt="image" src="https://github.com/user-attachments/assets/2643cae7-77d0-44ed-ab49-98da48784042" />
-
+  
 
 
 
