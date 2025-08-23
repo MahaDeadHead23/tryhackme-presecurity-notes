@@ -26,9 +26,7 @@ Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team,
 
 - **🛠️ Security Engineer**  
   - Builds & implements security systems, mitigates vulnerabilities.
-  <p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p>
+ <img width="982" height="506" alt="image" src="https://github.com/user-attachments/assets/f084bef8-06f3-44b8-a3fd-384795ddb32d" />
 
 
 
@@ -36,39 +34,33 @@ Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team,
 
 - **🚨 Incident Responder**  
   - Detects & mitigates attacks in real time, prepares incident plans.
-    <p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p>
+ <img width="823" height="503" alt="image" src="https://github.com/user-attachments/assets/d87fd993-a821-448f-bb98-60692211f816" />
+
   - **Learning Path:** SOC Level 1  
 
 - **🔍 Digital Forensics Examiner**  
   - Investigates incidents & crimes, collects & analyzes digital evidence.
-    <p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p>
+ <img width="872" height="462" alt="image" src="https://github.com/user-attachments/assets/b216c177-2724-46f8-aafe-6a454bd07d69" />
 
   - Works in law enforcement or corporate security.  
 
 - **🦠 Malware Analyst**  
   - Reverse-engineers malware, performs static & dynamic analysis.  
 
-<p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p>
+<img width="851" height="494" alt="image" src="https://github.com/user-attachments/assets/4a05b493-1d2d-4dd9-be3d-2d1f1adca89d" />
+
   - **Requires:** Strong programming background (Assembly, C).  
 
 - **🔓 Penetration Tester (Pentester)**  
   - Ethically hacks systems, finds vulnerabilities, reports risks. 
-<p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p> 
+<img width="914" height="481" alt="image" src="https://github.com/user-attachments/assets/979741f9-01fe-41e8-8062-13b4f4788a7a" />
+
   - **Learning Path:** Jr Pentester → Offensive Pentesting  
 
 - **🎭 Red Teamer**  
   - Simulates advanced attackers to test detection & response.  
-<p align="center">
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
-</p>
+<img width="726" height="465" alt="image" src="https://github.com/user-attachments/assets/f5feb472-09af-4bd9-b1ae-1ccb6520df8c" />
+
   - **Learning Path:** Jr Pentester → Offensive Pentesting → Red Teamer  
 
 ---
