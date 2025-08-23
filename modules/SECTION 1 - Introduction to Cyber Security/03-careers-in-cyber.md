@@ -16,11 +16,9 @@ Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team,
 
 - **👨‍💻 Security Analyst**  
   - Evaluates networks, writes reports, develops security plans.
-     <p align="center">
-      
-  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="647" height="310" alt="image" src="https://github.com/user-attachments/assets/e3b29c5e-2d1d-4c4f-8c26-c4af405ea867"/>
-</p>
-  
+
+  <img src="../images/cyber-careers.png" alt="Cyber Careers" width="400"/>
+
 
 
   - **Learning Path:** Pre-Security → Cyber Security 101 → SOC Level 1  
