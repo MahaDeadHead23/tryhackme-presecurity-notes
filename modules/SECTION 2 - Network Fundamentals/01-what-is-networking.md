@@ -7,7 +7,6 @@
 ## 📌 Overview  
 Networks are simply **things connected** — just like a friendship circle, transportation system, or electricity grid.  
 In computing, networks connect devices so they can share information.  
-<img width="934" height="222" alt="image" src="https://github.com/user-attachments/assets/7f942850-da39-4a17-bbbe-cd6b3d886995" />
 ---
 
 ## 🔗 Key Points  
