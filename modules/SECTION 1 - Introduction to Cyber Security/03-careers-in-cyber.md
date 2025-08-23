@@ -2,15 +2,14 @@
 
 
 
-<img width="851" height="422" alt="image" src="https://github.com/user-attachments/assets/2643cae7-77d0-44ed-ab49-98da48784042" />
 
-
+<img width="647" height="310" alt="image" src="https://github.com/user-attachments/assets/e3b29c5e-2d1d-4c4f-8c26-c4af405ea867" />
 # 💼 Careers in Cyber
 
 ## 📌 Room Overview  
 Cybersecurity careers are **in-demand, exciting, and high-paying**.  
 Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team, SOC, DFIR, forensics)**, each requiring unique skills and mindsets.  
-<img width="647" height="310" alt="image" src="https://github.com/user-attachments/assets/e3b29c5e-2d1d-4c4f-8c26-c4af405ea867" />
+
 ---
 
 ## 🛡️ Key Roles  
@@ -19,6 +18,7 @@ Roles range from **offensive (Red Team, pentesting)** to **defensive (Blue Team,
   - Evaluates networks, writes reports, develops security plans.
 
   
+<img width="851" height="422" alt="image" src="https://github.com/user-attachments/assets/2643cae7-77d0-44ed-ab49-98da48784042" />
 
 
 
