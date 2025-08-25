@@ -39,7 +39,9 @@ The Internet is the **largest network**, made up of many smaller networks joined
 - 🔒 Two types of networks:  
   - 🏠 **Private networks** → internal, restricted.  
   - 🌍 **Public networks** → the global Internet.  
-- 🏷️ Devices use **addresses (labels)** to identify themselves in a network (covered later).  
+- 🏷️ Devices use **addresses (labels)** to identify themselves in a network (covered later).
+  <img width="1848" height="936" alt="image" src="https://github.com/user-attachments/assets/ad2b2bca-9c75-4237-b281-ae1ae863ef3f" />
+ 
 
 **✨ Takeaway:** The Internet is simply a **giant network of smaller private & public networks**, enabling global communication.  
 
