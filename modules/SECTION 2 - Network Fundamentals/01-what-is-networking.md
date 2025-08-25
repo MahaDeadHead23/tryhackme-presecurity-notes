@@ -40,9 +40,33 @@ The Internet is the **largest network**, made up of many smaller networks joined
   - 🏠 **Private networks** → internal, restricted.  
   - 🌍 **Public networks** → the global Internet.  
 - 🏷️ Devices use **addresses (labels)** to identify themselves in a network (covered later).
-  <img width="1848" height="936" alt="image" src="https://github.com/user-attachments/assets/ad2b2bca-9c75-4237-b281-ae1ae863ef3f" />
+  
  
 
-**✨ Takeaway:** The Internet is simply a **giant network of smaller private & public networks**, enabling global communication.  
+
+## 🧪 Practical (CTF Lab)  
+- Scenario: Hotel Wi-Fi blocks Bob’s packets (blue) 🚫 but allows Alice’s (green) ✅ since she paid.  
+- Task: Change Bob’s **MAC address** to Alice’s.
+  <img width="1848" height="936" alt="image" src="https://github.com/user-attachments/assets/ad2b2bca-9c75-4237-b281-ae1ae863ef3f" /> 
+- Result: Bob bypasses payment restrictions and accesses TryHackMe.  
+
+**✨ Takeaway:** The Internet is simply a **giant network of smaller private & public networks**, enabling global communication. 
 
 ---
+##Ping
+- 🛠️ **Ping** is one of the most fundamental network tools.  
+- Uses **ICMP (Internet Control Message Protocol)** to check if a device is reachable and measure connection performance.  
+- Works by sending an **ICMP Echo Request** 📨 and waiting for an **ICMP Echo Reply** 📩.  
+- Output shows: packets sent/received + round-trip time (latency ⏱️).  
+- Can ping devices on your private network (e.g., `192.168.1.254`) or public servers (e.g., `8.8.8.8`).  
+- Syntax (Windows/Linux):  
+  ```bash
+  ping <IP or domain>
+## 🧪 Practical (CTF Lab) 
+<img width="1814" height="617" alt="image" src="https://github.com/user-attachments/assets/c7ebb041-ac94-4331-82de-eaad91dfb718" />
+
+## 📝 Reflections  
+- Networking relies on **layers of identity**:  
+  - 🌐 IP = where you are (address).  
+  - 💳 MAC = who you are (fingerprint).  
+- Understanding these identifiers is crucial in both **attacking (spoofing)** and **defending (detection)**.  
