@@ -8,10 +8,7 @@ LAN topologies define how devices are arranged in a network.
 - Devices connect to a central hub/switch.
 - ✅ Reliable & scalable.
 - ❌ Expensive, depends on central device.
-## ⭐ Star Topology
-- Devices connect to a central hub/switch.
-- ✅ Reliable & scalable.
-- ❌ Expensive, depends on central device.
+<img width="1140" height="390" alt="image" src="https://github.com/user-attachments/assets/0e0a1718-6d37-450d-aeb0-501aa3c03a02" />
 
   
 ## 🚌 Bus Topology
